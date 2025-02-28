@@ -1,3 +1,6 @@
+## 牛逼模块
+  <img src="./icon.png" alt="socialify"/>
+
 ## 说明 / Desc:
 
 Wechat 辅助性功能增强
