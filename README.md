@@ -30,12 +30,6 @@ Wechat 辅助性功能增强
 
 ---
 
-## 计划 / Plans:
-
-无
-
----
-
 ## 致谢 / Thanks:
 
 | Name        | Source                                                    |
@@ -43,4 +37,4 @@ Wechat 辅助性功能增强
 | WAuxiliary | [WAuxiliary](https://github.com/HdShare/WAuxiliary_Public) |
 | YukiHookAPI | [YukiHookAPI](https://github.com/HighCapable/YukiHookAPI) |
 | DexKit      | [DexKit](https://github.com/LuckyPray/DexKit)             |
-| XpHelper    | [XpHelper]((https://github.com/suzhelan/XPHelper))        |
+| XpHelper    | [XpHelper](https://github.com/suzhelan/XPHelper)        |
