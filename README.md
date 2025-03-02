@@ -1,5 +1,5 @@
 ## 牛逼模块
-  <img src="./icon.png" alt="socialify"/>
+  <img src="https://github.com/Xposed-Modules-Repo/com.padi.hook.hookqq/blob/main/icon.png" alt="socialify"/>
 
 ## 说明 / Desc:
 
